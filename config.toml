@@ -1,4 +1,4 @@
-baseURL = "https://sk2sat.github.io"
+baseURL = "https://sk2sat.github.io/public"
 languageCode = "en-us"
 title = "My New Hugo Site"
 theme = "ananke"
