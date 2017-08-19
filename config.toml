@@ -1,4 +1,5 @@
-baseURL = "https://sk2sat.github.io/public"
+publishDir = "docs"
+baseURL = "https://sk2sat.github.io/"
 languageCode = "en-us"
 title = "My New Hugo Site"
 theme = "ananke"
